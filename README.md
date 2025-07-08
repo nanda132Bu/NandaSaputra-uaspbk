@@ -58,3 +58,39 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+
+
+# 🏥 Klinik Sehat - Aplikasi Manajemen Klinik
+
+Aplikasi **Klinik Sehat** adalah aplikasi berbasis **Vue.js** yang dirancang untuk membantu pengelolaan data di klinik, mulai dari pasien, dokter, pendaftaran, rekam medis hingga laporan.
+
+---
+
+## 📌 Fitur Utama
+
+- **Dashboard**: Menampilkan ringkasan data penting seperti jumlah pasien, dokter, dan statistik kunjungan.
+- **Manajemen Pasien**: Tambah, ubah, dan hapus data pasien.
+- **Manajemen Dokter**: Kelola data dokter yang bertugas di klinik.
+- **Pendaftaran Pasien**: Formulir untuk mendaftarkan pasien untuk pemeriksaan.
+- **Rekam Medis**: Menyimpan riwayat pemeriksaan medis pasien.
+- **Laporan**: Menampilkan laporan kunjungan dan aktivitas lainnya.
+- **Login**: Autentikasi pengguna untuk membatasi akses halaman tertentu.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- [Vue.js 3](https://vuejs.org/)
+- [Vue Router](https://router.vuejs.org/)
+- [Font Awesome](https://fontawesome.com/) untuk ikon
+- HTML & CSS dasar
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+### 1. Clone repositori
+
+```bash
+git clone https://github.com/username/klinik-sehat.git
+cd klinik-sehat
